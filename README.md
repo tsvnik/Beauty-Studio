@@ -1,0 +1,2 @@
+# Beauty-Studio
+Course project 
